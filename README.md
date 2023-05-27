@@ -90,6 +90,51 @@
 <!-- </div> -->
 <br>
 
+## Details
+
+### Specifics on how to achieve
+
+For now, please refer to the [discussions](https://github.com/Schweinepriester/github-profile-achievements/discussions).  
+To the best of our knowledge:
+
+- [Galaxy Brain](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
+- [YOLO](https://github.com/Schweinepriester/github-profile-achievements/discussions/6#discussioncomment-2934257)
+
+### Tier labels
+
+Each tier has a label associated which includes a color.
+
+| Tier      | Label | Sample                                                 | Hex     | Visual                                                                                                            |
+| --------- | ----- | ------------------------------------------------------ | ------- | ----------------------------------------------------------------------------------------------------------------- |
+| Bronze 🥉 | x2    | ![x2](/images/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7) |
+| Silver 🥈 | x3    | ![x3](/images/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4) |
+| Gold 🥇   | x4    | ![x4](/images/custom/tier-label/tier-label-gold.svg)   | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E) |
+
+### 100 % samples
+
+[Here](/images/captured/complete) are screenshots of all Achievements at 100 % unlocked as seen in full in the dialog, both light and dark mode.  
+See them live, including the animation some have, for example here:
+
+| Title                         | Sample                                                                                                                                            |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Pair Extraordinaire           | [Live 100 % unlocked sample by @Rongronggg9](https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements)                     |
+| Quickdraw                     | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=quickdraw&tab=achievements)                     |
+| Starstruck                    | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements)                                    |
+|                               |                                                                                                                                                   | <!-- this empty row is intentional to separate --> |
+| Galaxy Brain                  | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=galaxy-brain&tab=achievements)                                      |
+| Pull Shark                    | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?achievement=pull-shark&tab=achievements)                                        |
+| YOLO                          | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?achievement=yolo&tab=achievements)                          |
+|                               |                                                                                                                                                   | <!-- this empty row is intentional to separate --> |
+| Arctic Code Vault Contributor | [Live 100 % unlocked sample by @Schweinepriester](https://github.com/Schweinepriester?tab=achievements&achievement=arctic-code-vault-contributor) |
+| Public Sponsor                | [Live 100 % unlocked sample by @ljharb](https://github.com/ljharb?tab=achievements&achievement=public-sponsor)                                    |
+| Mars 2020 Contributor         | [Live 100 % unlocked sample by @torvalds](https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements)                         |
+
+Do you know a user with all Achievements with highest tier at the same time? Let me know!
+
+### Variants
+
+[Here](/images/variants) are the variants of Badges including the [Octocat :octocat:](https://github.com/logos) based on [the setting](https://github.com/settings/appearance#emoji-heading) for the [Emoji skin tone](https://en.wikipedia.org/wiki/Emoji#Skin_color) [✌️](https://emojipedia.org/victory-hand/)[✌🏻✌🏼✌🏽✌🏾✌🏿](https://emojipedia.org/emoji-modifier-sequence/).
+
 ####
 
 <div align="center">
