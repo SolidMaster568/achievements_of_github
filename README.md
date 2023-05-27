@@ -14,3 +14,11 @@
     <img width="50%" src="https://user-images.githubusercontent.com/65187002/172941149-31258408-bfc3-496a-8a58-e34794b21813.png">
   </picture>
 </div>
+
+<br>
+
+# 🏅 Displaying Achievements 🏅
+
+#### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
+
+#### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
